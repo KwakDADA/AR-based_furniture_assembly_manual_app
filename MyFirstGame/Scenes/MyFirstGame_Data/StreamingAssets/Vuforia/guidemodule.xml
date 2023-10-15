@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tempimage" size="0.200000 0.228369" />
+    <ImageTarget name="3_plus_star" size="0.105000 0.067627" />
+    <ImageTarget name="4_0_star" size="0.180000 0.112857" />
+    <ImageTarget name="3_0" size="0.095000 0.049392" />
+    <ImageTarget name="4_0" size="0.180000 0.100204" />
+    <ImageTarget name="7_0" size="0.145000 0.131284" />
+    <ImageTarget name="6_0" size="0.100000 0.101136" />
+    <ImageTarget name="5_0" size="0.140000 0.123878" />
+    <ImageTarget name="2_0" size="0.090000 0.056726" />
+    <ImageTarget name="1_0" size="0.190000 0.131538" />
+  </Tracking>
+</QCARConfig>
